@@ -1,4 +1,5 @@
 import os
+from os import system 
 try:
 	from requests import *
 	from uuid import uuid4
